@@ -1,3 +1,5 @@
+![Example of program in use](https://github.com/minustree/cotton/blob/main/cotton_face.png)
+
 # Cotton
 
 ### Pre-requisites for running this program:
