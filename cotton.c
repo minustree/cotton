@@ -2,10 +2,10 @@
 COTTON
 Author: M Tran
 Character Design: Slitherbop
-    _     _
+    _    _
    ||____||
   // o  o \\
-  \\_____//
+  \\______//
 
 This file draws a character named Cotton to the screen.
 You can close the left or right eye with the J and L keys, respectively.
