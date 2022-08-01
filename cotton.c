@@ -1,6 +1,7 @@
 /*
 COTTON
-(character design from slitherbop)
+Author: M Tran
+Character Design: Slitherbop
     _     _
    ||____||
   // o  o \\
