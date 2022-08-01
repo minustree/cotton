@@ -7,17 +7,17 @@
 - Support for 16-bit color
 
 ### Compile the program using:
-  gcc -o cotton cotton.c library.c
+`gcc -o cotton cotton.c library.c`
 
 Make sure that graphics.h is in the same directory.
 
 ### To run the program:
-  ./cotton
+ `./cotton`
 
 ## CONTROLS
-J - open/close left eye
-L - open/close right eye
-WASD - change direction to look at
+J - open/close left eye <br>
+L - open/close right eye <br>
+WASD - change direction to look at <br>
 Q - exit program
 
 This program was tested using the QEMU virtual machine.
