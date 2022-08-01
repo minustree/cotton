@@ -19,9 +19,9 @@ Make sure that graphics.h is in the same directory.
  `./cotton`
 
 ## CONTROLS
-J      open/close left eye <br>
-L      open/close right eye <br>
-WASD   change direction to look at <br>
-Q      exit program
+J - open/close left eye <br>
+L - open/close right eye <br>
+WASD - change direction to look at <br>
+Q - exit program
 
 This program was tested using the QEMU virtual machine.
