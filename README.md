@@ -1,6 +1,6 @@
-# Cotton
-
 ![Example of program in use](https://github.com/minustree/cotton/blob/main/cotton_face.png)
+
+# Cotton
 
 This program was made as a birthday gift for a friend.
 
